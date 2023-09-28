@@ -9,7 +9,7 @@ st.set_page_config( page_title="Pinsapos IA Málaga")
 
 # loading the saved model
 
-with open('notebooks/models/se_vende.pck', 'rb') as f:
+with open('svm_streamlist_test/notebooks/models/se_vende.pck', 'rb') as f:
     dv, loaded_model = pickle.load(f)
 
 # loaded_model = pickle.load(open('notebooks/models/se_vende.pck', 'rb'))
