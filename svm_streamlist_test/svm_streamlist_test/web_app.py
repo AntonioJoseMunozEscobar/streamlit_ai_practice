@@ -1,7 +1,6 @@
 import numpy as np
 import pickle
 import streamlit as st
-import sklearn
 
 from predict_venta_service import predict_single
 
