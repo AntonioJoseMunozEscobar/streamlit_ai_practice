@@ -16,3 +16,6 @@ este proyecto estaba hecho mediante un endpoint y una petición POST con la libr
 librerías para desarrollar aplicaciones web.
 
 <h2>Aquí el enlace a la <a href="https://inmobiliaria-malaga-ai.streamlit.app" rel="nofollow">aplicación</a> para poder probarla</h2>
+
+A futuro me gustaría mejorar la calidad de los datos que tengo y el modelo SVM, puesto que poseo de pocos recursos ahora mismo
+para poder conseguir una buena fuente de datos con la que poder trabajar, ya que quiero que sea algo realmente funcional.
